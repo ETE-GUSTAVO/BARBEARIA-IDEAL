@@ -1,2 +1,3 @@
-# MaisCurriculo
-esse será um provável site da CookieEagle, a MaisCurrículo e um site de criação de curriculos e de preparação e capacitação para o mercado de trabalho
+BARBEARIA IDEAL
+
+será um provavél produto da CookieEagle, codigo base de um site de agendamento de corte para uma barbearia que precisa
